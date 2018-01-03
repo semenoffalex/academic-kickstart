@@ -58,12 +58,12 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "National Research University Higher School of Economics", url = "" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "Semenov_photo_crop_preview.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "semenoffalex@gmail.com"
   address = "3 Krivokolenny pereulok, room 330, Moscow, 101000"
   office_hours = "email for appointment"
   #phone = "888 888 88 88"
-  skype = "semenoffalex"
+  #skype = "semenoffalex"
   #telegram = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
